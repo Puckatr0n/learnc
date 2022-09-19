@@ -4,7 +4,7 @@
     int calcYear (int year1);
 int main(void)
 {
-    printf("What year was the subject born? \n");
+    printf("What flippin year was the subject born? \n");
     printf("Enter as a 4 digit year (YYYY): ");
     scanf("%d", &year1);
 
